@@ -1,0 +1,20 @@
+Insights and Recommendation:--
+
+1. Luxury Category generates 61.6% revenue which is highest.
+2. Total Revenue is 1688 million.
+3. Revenue Per Avilable room is 7337.
+4. Revenue Per Avilable room is high on weekend but its due to occupancy not ADR.
+5. Hotels having less Avg rating has less occupancy % and high cancellation %.
+6. Revenue lost due to cancellation and no show is 296million.
+7. Elite class geneartes highest revenue and standard class geneartes least revenue.
+8. mumbai generates highest revenue and delhi least
+9. Presidential room class has highest Average daily rate.its approx 1.5 times of Premium and double of Elite class.
+10. Mumbai has highest Revenue per avilable room and hyderabad has least.
+11. Mumbai has highest cancellation rate
+12. Presidential room class cancelled most time.
+13. Mumbai lost most revenue of value 115 million while delhi lost revenue due to cancellation and no show is 51 million.
+14. Elite class lost most revenue due to cancellation and no show is 98 million and standard class is 54 million.
+15. on weekday revenue loss due to cancellation and no show.
+16. 83% time room cancelled while 17% time customer did not show.
+17. Makeyoutrip has highest revenue lost due to cancellation and no show is 121 million which is 4 time higher than direct online and 8 time of direct offline.
+18. company should use dynamic pricing and promote offers and discount.
